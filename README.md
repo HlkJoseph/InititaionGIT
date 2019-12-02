@@ -2,13 +2,13 @@
 
 Tout au cours de ce TP, chaque apprenant va ajouter son nom à cette liste
 
-1. Hallak Joseph
+1. 
 2. 
 3. 
 4. 
 5. 
 6. 
-7. 
+7. Hallak Joseph
 8. 
 9. 
 10. 
